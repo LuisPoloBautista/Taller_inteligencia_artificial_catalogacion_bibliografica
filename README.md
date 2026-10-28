@@ -12,10 +12,10 @@ El objetivo es que cada participante cargue un archivo de práctica, seleccione 
 
 | Reto | Actividad | Archivo de entrada | Resultado esperado |
 |---|---|---|---|
-| **1. Normalización de autores** | Proponer encabezamientos en formato «Apellidos, Nombres» | [`registros_bibliograficos_ia.xlsx`](registros_bibliograficos_ia.xlsx) | Excel con autores normalizados y columna del valor original |
-| **2. Resúmenes bibliográficos** | Redactar propuestas para `520$a` a partir de título, índice, notas y temas | [`reto2_registros_marc21_resumenes.xlsx`](reto2_registros_marc21_resumenes.xlsx) | Excel con propuestas de resumen |
-| **3. Puntos de acceso temáticos** | Proponer materias para `650$a` a partir del título, índice y resumen | [`reto3_registros_marc21_sin_temas.xlsx`](reto3_registros_marc21_sin_temas.xlsx) | Excel con materias candidatas |
-| **4. Auditoría MARC21** | Detectar inconsistencias con reglas de Python y sugerir revisiones con IA | [`reto4_registros_marc21_con_errores.csv`](reto4_registros_marc21_con_errores.csv) | CSV con incidencias y recomendaciones |
+| **1. Normalización de autores** | Proponer encabezamientos en formato «Apellidos, Nombres» | [`Ejercicio 1`] | Excel con autores normalizados y columna del valor original |
+| **2. Resúmenes bibliográficos** | Redactar propuestas para `520$a` a partir de título, índice, notas y temas | [`Ejercicio 2`] | Excel con propuestas de resumen |
+| **3. Puntos de acceso temáticos** | Proponer materias para `650$a` a partir del título, índice y resumen | [`Ejercicio 3`]| Excel con materias candidatas |
+| **4. Auditoría MARC21** | Detectar inconsistencias con reglas de Python y sugerir revisiones con IA | [`Ejercicio 4`] | CSV con incidencias y recomendaciones |
 
 
 ## Requisitos
